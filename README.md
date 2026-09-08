@@ -246,3 +246,6 @@ This repository serves as the official landing page for SiyanoAV Antivirus PRO. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SiyanoAV Antivirus PRO today!**
+
+---
+**Last updated:** 2026-09-08 17:43:46 UTC
