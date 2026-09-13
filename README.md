@@ -248,4 +248,4 @@ This repository serves as the official landing page for SiyanoAV Antivirus PRO. 
 **Get the most recent version of SiyanoAV Antivirus PRO today!**
 
 ---
-**Last updated:** 2026-09-12 23:41:45 UTC
+**Last updated:** 2026-09-13 02:57:36 UTC
